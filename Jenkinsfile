@@ -36,7 +36,7 @@ pipeline {
     }
     stage('sds') {
       steps {
-        sh 'echo \'done\''
+        echo 'bgh'
       }
     }
   }
