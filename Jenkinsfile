@@ -32,6 +32,11 @@ pipeline {
             echo 'sdfs'
           }
         }
+        stage('') {
+          steps {
+            echo 'rererrere'
+          }
+        }
       }
     }
     stage('sds') {
